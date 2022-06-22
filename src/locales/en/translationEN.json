@@ -1,0 +1,71 @@
+{
+  "home": { "greeting": "Welcome to Courses app" },
+  "login": {
+    "title": {
+      "app": "Courses app 📘",
+      "page": "Log In"
+    },
+    "form": {
+      "email": {
+        "placeholder": "Enter email",
+        "label": "Email",
+        "error_message": "Please enter a valid email address"
+      },
+      "password": {
+        "placeholder": "Enter password",
+        "label": "Password",
+        "error_message": "Please enter a valid password of at least 8 characters"
+      },
+      "button": {
+        "login": "Log In"
+      },
+      "error_message": "Sorry, log in failed! Please try again"
+    }
+  },
+  "user": {
+    "greeting": "Hello",
+    "logout": "Log Out"
+  },
+  "courses_add": {
+    "title": "Add a course",
+    "form": {
+      "name": {
+        "placeholder": "Add name",
+        "label": "Name"
+      },
+      "description": {
+        "placeholder": "Add description",
+        "label": "Description",
+        "error_message": "Please add a valid description of minimum 10 characters!"
+      },
+      "button": {
+        "create": "Create",
+        "cancel": "Cancel"
+      }
+    }
+  },
+  "courses": {
+    "button": "Add a course",
+    "page_title": "Courses",
+    "loading_status": "Loading...",
+    "error_status": "Error",
+    "modal": {
+      "title": "Delete course",
+      "body": "Are you sure you want to delete this course",
+      "button": {
+        "cancel": "Cancel",
+        "continue": "Continue"
+      }
+    }
+  },
+  "navigation": {
+    "methodology": "Methodology",
+    "home": "Home",
+    "courses": "Courses"
+  },
+  "logo_title": "Courses",
+  "english": "English",
+  "french": "French(fr)",
+  "version": "Version",
+  "language": "Language"
+}

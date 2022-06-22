@@ -1,0 +1,71 @@
+{
+  "home": { "greeting": "Welcome to Courses app(fr)" },
+  "login": {
+    "title": {
+      "app": "Courses app 📘(fr)",
+      "page": "Log In(fr)"
+    },
+    "form": {
+      "email": {
+        "placeholder": "Enter email(fr)",
+        "label": "Email(fr)",
+        "error_message": "Please enter a valid email address(fr)"
+      },
+      "password": {
+        "placeholder": "Enter password(fr)",
+        "label": "Password(fr)",
+        "error_message": "Please enter a valid password of at least 8 characters(fr)"
+      },
+      "button": {
+        "login": "Login(fr)"
+      },
+      "error_message": "Sorry, log in failed! Please try again(fr)"
+    }
+  },
+  "user": {
+    "greeting": "Hello(fr)",
+    "logout": "Log Out(fr)"
+  },
+  "courses_add": {
+    "title": "Add a course(fr)",
+    "form": {
+      "name": {
+        "placeholder": "Add name(fr)",
+        "label": "Name(fr)"
+      },
+      "description": {
+        "placeholder": "Add description(fr)",
+        "label": "Description(fr)",
+        "error_message": "Please add a valid description of minimum 10 characters!(fr)"
+      },
+      "button": {
+        "create": "Create(fr)",
+        "cancel": "Cancel(fr)"
+      }
+    }
+  },
+  "courses": {
+    "page_title": "Courses(fr)",
+    "button": "Add a course(fr)",
+    "loading_status": "Loading(fr)...",
+    "error_status": "Error(fr)",
+    "modal": {
+      "title": "Delete course(fr))",
+      "body": "Are you sure you want to delete this course(fr)",
+      "button": {
+        "cancel": "Cancel(fr)",
+        "continue": "Continue(fr)"
+      }
+    }
+  },
+  "navigation": {
+    "methodology": "Methodology(fr)",
+    "home": "Home(fr)",
+    "courses": "Courses(fr)"
+  },
+  "logo_title": "Courses(fr)",
+  "french": "French(fr)",
+  "english": "English",
+  "version": "Version(fr)",
+  "language": "Language(fr)"
+}
